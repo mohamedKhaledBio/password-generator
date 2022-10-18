@@ -1,6 +1,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 # password-generator
-It is a simplified version of the program which help you to generate Strong Password with no advanced features.
+It is a python program which helps you to generate a Strong Password to use it safely.
+
 ## Built With
 * [python](https://www.python.org/) - The software used
 ## Author
